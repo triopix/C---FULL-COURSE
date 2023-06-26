@@ -1,0 +1,14 @@
+IDE's Used:
+
+    - VsCode
+
+Tools:
+
+    - Compiler (piece of software that takes code in ide to binary executable format to run on hardware)
+
+The tools are dependent on the OS (operating system) - different from linux, mac, and windows
+
+Check: https://en.cppreference.com/w/cpp/compiler_support
+
+You can also use the tasks from json 
+
